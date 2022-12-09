@@ -2,7 +2,7 @@
 
 ### **Why?**
 
-This extension allows Multi-language coverage to any post in your app. 
+**This extension allows Multi-language coverage to any post in your app.** 
 
 ### **📌How does it work?**
 Takes a value. Returns the retrieved value in whatever language group it is in. Language groups were coded with `Propertie`. If you want to change language according to system language then use `Device Utils > Device Language` block.
