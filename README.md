@@ -12,7 +12,7 @@ Takes a value. Returns the retrieved value in whatever language group it is in. 
 
 <img src="https://raw.githubusercontent.com/JeaFrid/MultiLang/main/GithubAssets/FullBlock.png" alt="Full Blocks" width="300"/>
 
-### **📌Bloks**
+### **📌Blocks**
 
 - `SetLanguage` It returns the language data where it is stuck. 
 - `NullText` Returns a empty text.
